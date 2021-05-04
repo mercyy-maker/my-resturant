@@ -8,19 +8,24 @@
     <style>
         h1 {
 
-            font-size: larger;
+            font-size: 30px;
             text-align: center;
-            color: black;
+            color: burlywood;
         }
         body {
-            text-align: center;
-            font-weight: bolder;
+            text-align: left;
             font-style: oblique;
-            font-family: "Amatic SC";
-            font-size: 30px;
-            color black;
-            background-color: burlywood;
+            font-family: Times;
+            font-size: 20px;
+            color: burlywood;
         }
+        p {
+            font-family: Times;
+            background-size: 25px;
+            color: burlywood;
+        }
+
+
 
     </style>
 
@@ -28,14 +33,44 @@
 <h1>ABOUT US</h1>
 <body>
 
+<p> We love brining you fresh and health food with traditional experience from back home</p>
+
+
     <img src="images/Aboutus.png" width="80%">
-    <br>
 
-    Mesob is an Ethiopian restaurant located in downtown Seattle.
-    We love bringing you fresh food with all the vibes from back
-    home. Come enjoy a bite with traditional music performance from our band every weekend.
+<p>
+    <div class="container">
+        <div class="row-flex">
+            <div class="flex-column-form">
+                <h3>
+                    Make a booking
+                </h3>
+                <form class="media-centered">
+                    <div class="form-group">
 
+                        <input type="name" class="form-control"
+                               id="exampleInputName1"
+                               aria-describedby="nameHelp"
+                               placeholder="Enter your name">
+                    </div>
+                    <div class="form-group">
+                        <input type="number" class="form-control"
+                               id="exampleInputphoneNumber1"
+                               placeholder="Enter your phone number">
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        Submit
+                    </button>
+                </form>
+    <span>  Opening times: </span>
+                <br>
+    <span> Monday - Friday:  9:00 am - 9:00 pm </span>
+                <br>
+    <span> Weekends: 11:00 am - 12:00 am </span>
 
+</p>
+
+<a href="index.html"> Go back to home</a>
 
 </body>
 </html>

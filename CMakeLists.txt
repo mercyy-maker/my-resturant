@@ -4822,10 +4822,8 @@ add_executable(my_resturant
         node_modules/yargs/package.json
         node_modules/yargs/README.md
         public/images/Aboutus.png
-        public/images/cinibuna.png
         "public/images/dessert .png"
         public/images/doro.png
-        public/images/drinks.png
         public/images/main.png
         public/images/Sambusa.png
         public/images/sambusawippedcream.png

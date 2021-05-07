@@ -33,24 +33,39 @@ body{
 
 }
 h1{
-  color: palevioletred;
-  font-family: "Gill Sans";
+  color: darkolivegreen;
+  font-family: "Times New Roman";
   text-align: center;
   margin-top: 30px;
   font-size: xx-large;
 }
 h2{
   color: black;
-  font-family: "Gill Sans";
+  font-family: "Times New Roman";
   text-align: center;
   font-size: medium;
+}
+h3{
+  color: darkolivegreen;
+  font-family: "Times New Roman";
+  text-align: center;
+  margin-top: 30px;
+  font-size: xx-large;
 }
 .sectionTitle{
   font-size: 30px;
   font-weight: bold;
-  font-family: "Gill Sans";
+  font-family: "Times New Roman";
 }
 .menu1 {
   float: left;
   clear: both;
+}
+
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 40%;
+
 }

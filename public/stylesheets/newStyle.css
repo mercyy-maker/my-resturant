@@ -14,7 +14,7 @@ body{
   margin: 40px auto;
   padding: 32px;
   background: white;
-  box-shadow: 0 2px 4px rgba(2,1,2,0.1);
+  box-shadow: 0 2px 4px darkolivegreen;
 }
 .smallContainter{
   margin-right: auto;
@@ -23,7 +23,7 @@ body{
   margin: 40px auto;
   padding: 32px;
   background: white;
-  box-shadow: 0 2px 4px rgba(2,1,2,0.1);
+  box-shadow: 0 2px 4px darkolivegreen;
 }
 .Header{
   font-size: 38px;
@@ -56,6 +56,8 @@ h3{
   font-size: 30px;
   font-weight: bold;
   font-family: "Times New Roman";
+  text-align: center;
+  color: darkseagreen;
 }
 .menu1 {
   float: left;

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98b7a943-8b55-4d24-a61d-1810ba8aacf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/extracode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/reviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/stylesheets/newStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/drinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s6JWYDyFifHUd7q9Aoy9d9RWCE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/stylesheets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b7a943-8b55-4d24-a61d-1810ba8aacf7" name="Default Changelist" comment="" />
+      <created>1620187137692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620187137692</updated>
+      <workItem from="1620187138921" duration="472000" />
+      <workItem from="1620233986993" duration="7077000" />
+      <workItem from="1620264973638" duration="172000" />
+      <workItem from="1620406937129" duration="3753000" />
+      <workItem from="1620412209700" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620239405572">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="518" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1620239405572" />
+    <state width="1296" height="2" key="GridCell.Tab.0.bottom" timestamp="1620410726973">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1296" height="2" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1620410726973" />
+    <state width="1278" height="2" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1620235925209" />
+    <state width="1296" height="2" key="GridCell.Tab.0.center" timestamp="1620410726972">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1296" height="2" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1620410726972" />
+    <state width="1278" height="2" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1620235925208" />
+    <state width="1296" height="2" key="GridCell.Tab.0.left" timestamp="1620410726971">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1296" height="2" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1620410726971" />
+    <state width="1278" height="2" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1620235925208" />
+    <state width="1296" height="2" key="GridCell.Tab.0.right" timestamp="1620410726972">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1296" height="2" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1620410726972" />
+    <state width="1278" height="2" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1620235925209" />
+  </component>
+</project>

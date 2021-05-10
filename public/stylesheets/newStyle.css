@@ -1,0 +1,56 @@
+body{
+  font-family: "Gill Sans";
+  background-image:
+          url("https://ministryofcurry.com/wp-content/uploads/2020/02/doro-wat-4.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container{
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 32px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(2,1,2,0.1);
+}
+.smallContainter{
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 32px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(2,1,2,0.1);
+}
+.Header{
+  font-size: 38px;
+  text-align: center;
+  line-height: 1;
+  font-family: "Gill Sans";
+
+}
+h1{
+  color: palevioletred;
+  font-family: "Gill Sans";
+  text-align: center;
+  margin-top: 30px;
+  font-size: xx-large;
+}
+h2{
+  color: black;
+  font-family: "Gill Sans";
+  text-align: center;
+  font-size: medium;
+}
+.sectionTitle{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Gill Sans";
+}
+.menu1 {
+  float: left;
+  clear: both;
+}
